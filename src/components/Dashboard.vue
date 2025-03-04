@@ -423,7 +423,7 @@ import Footer from '@/views/layouts/Footer.vue';
                     <ul class="p-0 m-0">
                         <li class="mb-4 d-flex">
                             <div class="d-flex w-50 align-items-center me-4">
-                                <img src="../../assets/img/icons/brands/laravel-logo.png" alt="laravel-logo"
+                                <img src="" alt="laravel-logo"
                                     class="me-4" width="35" />
                                 <div>
                                     <h6 class="mb-0">Laravel</h6>
@@ -440,7 +440,7 @@ import Footer from '@/views/layouts/Footer.vue';
                         </li>
                         <li class="mb-4 d-flex">
                             <div class="d-flex w-50 align-items-center me-4">
-                                <img src="../../assets/img/icons/brands/figma-logo.png" alt="figma-logo" class="me-4"
+                                <img src="" alt="figma-logo" class="me-4"
                                     width="35" />
                                 <div>
                                     <h6 class="mb-0">Figma</h6>
@@ -457,7 +457,7 @@ import Footer from '@/views/layouts/Footer.vue';
                         </li>
                         <li class="mb-4 d-flex">
                             <div class="d-flex w-50 align-items-center me-4">
-                                <img src="../../assets/img/icons/brands/vue-logo.png" alt="vue-logo" class="me-4"
+                                <img src="" alt="vue-logo" class="me-4"
                                     width="35" />
                                 <div>
                                     <h6 class="mb-0">VueJs</h6>
@@ -474,7 +474,7 @@ import Footer from '@/views/layouts/Footer.vue';
                         </li>
                         <li class="mb-4 d-flex">
                             <div class="d-flex w-50 align-items-center me-4">
-                                <img src="../../assets/img/icons/brands/react-logo.png" alt="react-logo" class="me-4"
+                                <img src="" alt="react-logo" class="me-4"
                                     width="35" />
                                 <div>
                                     <h6 class="mb-0">React</h6>
@@ -491,7 +491,7 @@ import Footer from '@/views/layouts/Footer.vue';
                         </li>
                         <li class="mb-4 d-flex">
                             <div class="d-flex w-50 align-items-center me-4">
-                                <img src="../../assets/img/icons/brands/bootstrap-logo.png" alt="bootstrap-logo"
+                                <img src="" alt="bootstrap-logo"
                                     class="me-4" width="35" />
                                 <div>
                                     <h6 class="mb-0">Bootstrap</h6>
@@ -508,7 +508,7 @@ import Footer from '@/views/layouts/Footer.vue';
                         </li>
                         <li class="d-flex">
                             <div class="d-flex w-50 align-items-center me-4">
-                                <img src="../../assets/img/icons/brands/sketch-logo.png" alt="sketch-logo" class="me-4"
+                                <img src="" alt="sketch-logo" class="me-4"
                                     width="35" />
                                 <div>
                                     <h6 class="mb-0">Sketch</h6>
@@ -561,7 +561,7 @@ import Footer from '@/views/layouts/Footer.vue';
                                 <td class="pt-5">
                                     <div class="d-flex justify-content-start align-items-center">
                                         <div class="me-4">
-                                            <img src="../../assets/img/icons/payments/visa-img.png" alt="Visa"
+                                            <img src="" alt="Visa"
                                                 height="30" />
                                         </div>
                                         <div class="d-flex flex-column">
@@ -586,7 +586,7 @@ import Footer from '@/views/layouts/Footer.vue';
                                 <td>
                                     <div class="d-flex justify-content-start align-items-center">
                                         <div class="me-4">
-                                            <img src="../../assets/img/icons/payments/master-card-img.png" alt="Visa"
+                                            <img src="" alt="Visa"
                                                 height="30" />
                                         </div>
                                         <div class="d-flex flex-column">
@@ -611,7 +611,7 @@ import Footer from '@/views/layouts/Footer.vue';
                                 <td>
                                     <div class="d-flex justify-content-start align-items-center">
                                         <div class="me-4">
-                                            <img src="../../assets/img/icons/payments/american-express-img.png"
+                                            <img src=""
                                                 alt="Visa" height="30" />
                                         </div>
                                         <div class="d-flex flex-column">
@@ -636,7 +636,7 @@ import Footer from '@/views/layouts/Footer.vue';
                                 <td>
                                     <div class="d-flex justify-content-start align-items-center">
                                         <div class="me-4">
-                                            <img src="../../assets/img/icons/payments/visa-img.png" alt="Visa"
+                                            <img src="" alt="Visa"
                                                 height="30" />
                                         </div>
                                         <div class="d-flex flex-column">
@@ -661,7 +661,7 @@ import Footer from '@/views/layouts/Footer.vue';
                                 <td>
                                     <div class="d-flex justify-content-start align-items-center">
                                         <div class="me-4">
-                                            <img src="../../assets/img/icons/payments/visa-img.png" alt="Visa"
+                                            <img src="" alt="Visa"
                                                 height="30" />
                                         </div>
                                         <div class="d-flex flex-column">
@@ -722,7 +722,7 @@ import Footer from '@/views/layouts/Footer.vue';
                                     company</p>
                                 <div class="d-flex align-items-center mb-1">
                                     <div class="badge bg-lighter rounded-3">
-                                        <img src="../../assets//img/icons/misc/pdf.png" alt="img" width="15"
+                                        <img src="" alt="img" width="15"
                                             class="me-2" />
                                         <span class="h6 mb-0 text-body">invoices.pdf</span>
                                     </div>
@@ -741,7 +741,7 @@ import Footer from '@/views/layouts/Footer.vue';
                                 <div class="d-flex justify-content-between flex-wrap gap-2">
                                     <div class="d-flex flex-wrap align-items-center">
                                         <div class="avatar avatar-sm me-2">
-                                            <img src="../../assets/img/avatars/1.png" alt="Avatar"
+                                            <img src="" alt="Avatar"
                                                 class="rounded-circle" />
                                         </div>
                                         <div>
@@ -771,18 +771,18 @@ import Footer from '@/views/layouts/Footer.vue';
                                                 <li data-bs-toggle="tooltip" data-popup="tooltip-custom"
                                                     data-bs-placement="top" title="Vinnie Mostowy"
                                                     class="avatar pull-up">
-                                                    <img class="rounded-circle" src="../../assets/img/avatars/5.png"
+                                                    <img class="rounded-circle" src=""
                                                         alt="Avatar" />
                                                 </li>
                                                 <li data-bs-toggle="tooltip" data-popup="tooltip-custom"
                                                     data-bs-placement="top" title="Allen Rieske" class="avatar pull-up">
-                                                    <img class="rounded-circle" src="../../assets/img/avatars/12.png"
+                                                    <img class="rounded-circle" src=""
                                                         alt="Avatar" />
                                                 </li>
                                                 <li data-bs-toggle="tooltip" data-popup="tooltip-custom"
                                                     data-bs-placement="top" title="Julee Rossignol"
                                                     class="avatar pull-up">
-                                                    <img class="rounded-circle" src="../../assets/img/avatars/6.png"
+                                                    <img class="rounded-circle" src=""
                                                         alt="Avatar" />
                                                 </li>
                                                 <li class="avatar">
