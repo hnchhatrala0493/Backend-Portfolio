@@ -4,8 +4,7 @@ const cors = require('cors')
 
 app.use(cors())
 app.use(express.json())
-app.use('/api/skills', Skills)
-app.use('/api/education', Education)
+
 app.get('/', (req, res) => {
   res.send('Backend is running on Vercel!')
 })
