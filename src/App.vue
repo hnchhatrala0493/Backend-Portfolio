@@ -10,6 +10,7 @@ import { useRoute } from "vue-router";
 import MainLayout from "@/views/layouts/Main.vue";
 import LoginPage from "@/components/authentication/LoginPage.vue";
 const route = useRoute();
+
 const layout = computed(() => {
   return route.meta.layout === "AuthLayout" ? LoginPage : MainLayout;
 });
