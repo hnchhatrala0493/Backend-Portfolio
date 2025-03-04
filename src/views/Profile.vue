@@ -432,7 +432,7 @@ import profile from "../assets/img/avatars/1.png"
                                     <div class="d-flex align-items-center">
                                         <div class="d-flex align-items-center">
                                             <div class="avatar me-2">
-                                                <img src="../../assets/img/icons/brands/support-label.png" alt="Avatar"
+                                                <img src="" alt="Avatar"
                                                     class="rounded-circle" />
                                             </div>
                                             <div class="me-2">
@@ -450,7 +450,7 @@ import profile from "../assets/img/avatars/1.png"
                                     <div class="d-flex align-items-center">
                                         <div class="d-flex align-items-center">
                                             <div class="avatar me-2">
-                                                <img src="../../assets/img/icons/brands/figma-label.png" alt="Avatar"
+                                                <img src="" alt="Avatar"
                                                     class="rounded-circle" />
                                             </div>
                                             <div class="me-2">
@@ -467,7 +467,7 @@ import profile from "../assets/img/avatars/1.png"
                                     <div class="d-flex align-items-center">
                                         <div class="d-flex align-items-center">
                                             <div class="avatar me-2">
-                                                <img src="../../assets/img/icons/brands/vue-label.png" alt="Avatar"
+                                                <img src="" alt="Avatar"
                                                     class="rounded-circle" />
                                             </div>
                                             <div class="me-2">
@@ -485,7 +485,7 @@ import profile from "../assets/img/avatars/1.png"
                                     <div class="d-flex align-items-center">
                                         <div class="d-flex align-items-center">
                                             <div class="avatar me-2">
-                                                <img src="../../assets/img/icons/brands/twitter-label.png" alt="Avatar"
+                                                <img src="" alt="Avatar"
                                                     class="rounded-circle" />
                                             </div>
                                             <div class="me-w">
