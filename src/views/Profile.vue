@@ -173,7 +173,7 @@ import profile from "../assets/img/avatars/1.png"
                                     company</p>
                                 <div class="d-flex align-items-center mb-2">
                                     <div class="badge bg-lighter rounded d-flex align-items-center">
-                                        <img src="../../assets//img/icons/misc/pdf.png" alt="img" width="15"
+                                        <img src="" alt="img" width="15"
                                             class="me-2" />
                                         <span class="h6 mb-0 text-body">invoices.pdf</span>
                                     </div>
@@ -192,7 +192,7 @@ import profile from "../assets/img/avatars/1.png"
                                 <div class="d-flex justify-content-between flex-wrap gap-2 mb-2">
                                     <div class="d-flex flex-wrap align-items-center mb-50">
                                         <div class="avatar avatar-sm me-3">
-                                            <img src="../../assets/img/avatars/1.png" alt="Avatar"
+                                            <img src="" alt="Avatar"
                                                 class="rounded-circle" />
                                         </div>
                                         <div>
@@ -222,18 +222,18 @@ import profile from "../assets/img/avatars/1.png"
                                                 <li data-bs-toggle="tooltip" data-popup="tooltip-custom"
                                                     data-bs-placement="top" title="Vinnie Mostowy"
                                                     class="avatar pull-up">
-                                                    <img class="rounded-circle" src="../../assets/img/avatars/1.png"
+                                                    <img class="rounded-circle" src=""
                                                         alt="Avatar" />
                                                 </li>
                                                 <li data-bs-toggle="tooltip" data-popup="tooltip-custom"
                                                     data-bs-placement="top" title="Allen Rieske" class="avatar pull-up">
-                                                    <img class="rounded-circle" src="../../assets/img/avatars/4.png"
+                                                    <img class="rounded-circle" src=""
                                                         alt="Avatar" />
                                                 </li>
                                                 <li data-bs-toggle="tooltip" data-popup="tooltip-custom"
                                                     data-bs-placement="top" title="Julee Rossignol"
                                                     class="avatar pull-up">
-                                                    <img class="rounded-circle" src="../../assets/img/avatars/2.png"
+                                                    <img class="rounded-circle" src=""
                                                         alt="Avatar" />
                                                 </li>
                                                 <li class="avatar">
@@ -284,7 +284,7 @@ import profile from "../assets/img/avatars/1.png"
                                     <div class="d-flex align-items-center">
                                         <div class="d-flex align-items-center">
                                             <div class="avatar me-2">
-                                                <img src="../../assets/img/avatars/2.png" alt="Avatar"
+                                                <img src="" alt="Avatar"
                                                     class="rounded-circle" />
                                             </div>
                                             <div class="me-2">
@@ -303,7 +303,7 @@ import profile from "../assets/img/avatars/1.png"
                                     <div class="d-flex align-items-center">
                                         <div class="d-flex align-items-center">
                                             <div class="avatar me-2">
-                                                <img src="../../assets/img/avatars/3.png" alt="Avatar"
+                                                <img src="" alt="Avatar"
                                                     class="rounded-circle" />
                                             </div>
                                             <div class="me-2">
@@ -321,7 +321,7 @@ import profile from "../assets/img/avatars/1.png"
                                     <div class="d-flex align-items-center">
                                         <div class="d-flex align-items-center">
                                             <div class="avatar me-2">
-                                                <img src="../../assets/img/avatars/10.png" alt="Avatar"
+                                                <img src="" alt="Avatar"
                                                     class="rounded-circle" />
                                             </div>
                                             <div class="me-2">
@@ -339,7 +339,7 @@ import profile from "../assets/img/avatars/1.png"
                                     <div class="d-flex align-items-center">
                                         <div class="d-flex align-items-center">
                                             <div class="avatar me-2">
-                                                <img src="../../assets/img/avatars/7.png" alt="Avatar"
+                                                <img src="" alt="Avatar"
                                                     class="rounded-circle" />
                                             </div>
                                             <div class="me-2">
@@ -359,7 +359,7 @@ import profile from "../assets/img/avatars/1.png"
                                     <div class="d-flex align-items-center">
                                         <div class="d-flex align-items-center">
                                             <div class="avatar me-2">
-                                                <img src="../../assets/img/avatars/12.png" alt="Avatar"
+                                                <img src="" alt="Avatar"
                                                     class="rounded-circle" />
                                             </div>
                                             <div class="me-2">
@@ -414,7 +414,7 @@ import profile from "../assets/img/avatars/1.png"
                                     <div class="d-flex align-items-center">
                                         <div class="d-flex align-items-center">
                                             <div class="avatar me-2">
-                                                <img src="../../assets/img/icons/brands/react-label.png" alt="Avatar"
+                                                <img src="" alt="Avatar"
                                                     class="rounded-circle" />
                                             </div>
                                             <div class="me-2">
